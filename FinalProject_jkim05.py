@@ -91,14 +91,5 @@ for x in ascii_matrix:
     print("".join(x))
 
 
-# In[101]:
-
-
-print)mantis_shrimp_img.jpg)
-
-
-# In[ ]:
-
-
 
 
